@@ -1,7 +1,7 @@
 ### Hi there 👋
 I`m Elitsa Shishmanova- Mihova!
 
-🔭 I’m currently working in Midalidare Hotel & SPA
+🔭 I’m currently working to learning JavaScript, HTML & CSS
 
 🌱 I’m currently learning JavaScript
 
